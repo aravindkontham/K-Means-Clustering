@@ -3,7 +3,8 @@ Have you ever wondered how a large set of data points are clustered into similar
 Yes with the help of K-Means Clustering
 <ul>
 <li>Before Performing K-Means</li>
-  ![BeforeK_Means](https://github.com/aravindkontham/K-Means-Clustering/assets/92075632/822a5f22-e8aa-45ab-81d2-734d31d47a78)
+![BeforeK_Means](https://github.com/aravindkontham/K-Means-Clustering/assets/92075632/ea45ec4f-3123-4b81-8697-c6b3e1195779)
+
 
 <li>After Performing K-Means (without Centriod Points)</li>
 
